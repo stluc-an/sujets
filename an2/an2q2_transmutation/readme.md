@@ -79,7 +79,24 @@ Le choix des outils sera pertinent par rapport au propos et à notre encadrement
 * Ton travail doit intégrer la question du dispositif. Autrement dit, il ne peut pas se limiter à une interface clavier/souris/écran. Il faut réfléchir au-delà, par exemple en termes d’interface physique ou d’installation dans l’espace.
     
 ## Remise
+### Présentation recherches (4 mars)
+* À partir de ton ordinateur, sous forme par exemple d'un slideshow, tu présenteras l'état de tes recherches.
+* Ces recherches, selon ton projet, consistent en : 
+    * des références artistiques, esthétiques, thématiques, littéraires, techniques, scientifiques, …
+    * des expérimentations graphiques, techniques, …
+* Nous attendons également déjà une certaine idée de 
+    * l'intention du projet (ça peut tenir en 2 phrases)
+    * ce que tu comptes expérimenter techniquement durant le mois qui suit 
+* Timing : 5-8 minutes de présentation, 3-6 minutes de retours
+* Conseil : 
+    * si vous avez par exemple 5 images à montrer, il vaut souvent mieux passer rapidement d'une image à l'autre (plein écran), en parlant, que de rester 2 minutes sur un collage d'images au format timbre poste ;)
+    * variez vos sources (pas *juste* Pinterest/GoogleSearch/Artstation)
+    * citez vos (toutes!) vos sources
 
+### Présentation du prototype (avril)
+* 
+
+### Remise finale (juin)
 * Tu présenteras le projet, installé dans une classe, devant le jury de professeurs d’atelier
 * Tu remetteras 
     * Une courte description du projet (max 1000 caractères)
@@ -89,7 +106,7 @@ Le choix des outils sera pertinent par rapport au propos et à notre encadrement
 ## Calendrier prévisionnel
 
 * 4 février : lancement
-* 4 mars  : remise recherches
+* 4 mars  : présentation recherches
 * 1 avril : remise prototype
 * Fin mai - début juin : atelier fabrication numérique (découpe laser, impression 3D) @ iMAL
     * En fonction des mesures sanitaires en vigueur à ce moment, et du nombre de places disponibles pour les AN2
