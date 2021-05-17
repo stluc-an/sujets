@@ -96,12 +96,21 @@ Le choix des outils sera pertinent par rapport au propos et à notre encadrement
 ### Présentation du prototype (avril)
 * 
 
-### Remise finale (juin)
-* Tu présenteras le projet, installé dans une classe, devant le jury de professeurs d’atelier
+### Remise finale (15 juin)
+* Dans le [Drive suivant](https://drive.google.com/drive/folders/1wDH778Gtw1rmctyt_PwzBAAX7m46rnzA?usp=sharing), NOMDEFAMILLE_Prénom/Transmutation/, au plus tard le 15 juin à 23:59
 * Tu remetteras 
-    * Une courte description du projet (max 1000 caractères)
+    * Une courte description du projet (max 1000 caractères), dans un simple .txt / .odt / .docx. Mentionner les crédits éventuels si nécessaire (sons/images récupérés, etc.)
     * 3 visuels représentatifs
-    * Une vidéo documentant l’expérience du projet (et éventuellement sa genèse)
+    * Une vidéo documentant l’expérience du projet
+        * Format/codec MP4/H264
+        * La vidéo peut être un témoignage authentique de votre travail, elle peut en conter la genèse ("making of"), mais peut également dépasser la réalité technique de votre projet dans son état actuel (montrer des interactions qui ne sont pas fonctionnelles, par exemple), et nous emmener vers la fiction. 
+        * La vidéo peut faire partie de votre œuvre finale (comme discuté avec certain.e.s), mais doit pouvoir exister indépendamment. 
+        * L'objectif: faire passer suffisamment de votre concept et projet à quelqu'un qui ne serait pas là le jour de la cotation.
+        * Conseil : n'hésitez pas à vous rassembler en petits groupes pour réaliser vos vidéos, et ainsi mutualiser matériel (bonne caméra, etc) et compétences (image, son, figuration, ...)  
+
+### Présentation finale (16 juin)
+  * Tu présenteras le projet, installé dans une des deux classes libres d'AN, devant le jury de professeurs d’atelier
+  * Conseil : viens suffisamment à l'avance pour t'installer à l'aise
 
 ## Calendrier prévisionnel
 
@@ -112,7 +121,7 @@ Le choix des outils sera pertinent par rapport au propos et à notre encadrement
     * En fonction des mesures sanitaires en vigueur à ce moment, et du nombre de places disponibles pour les AN2
 * Semaine du 14 juin : cotation
 
-## Tips
+## Conseils
 
 * Tu es à mi-parcours dans ton cursus à St-Luc, et il s’agit d’un de tes derniers projets avant le PFE. Saisis l’occasion pour t’interroger sur ton positionnement en tant qu’artiste numérique. Une partie de la réponse se trouve peut-être dans tes travaux précédents, qui révèlent (parfois malgré toi) des centres intérêts, une singularité, une quête, … ce qui ne t’interdit pas d’y réagir en explorant de nouveaux territoires, ou en prenant le contre-pied complet de tes travaux précédents.
 * Sois ambitieux en termes de créativité et de qualité, mais modestes et réalistes quant à la durée et la quantité. Assures-toi de pouvoir présenter un projet finalisé au jury de juin.
