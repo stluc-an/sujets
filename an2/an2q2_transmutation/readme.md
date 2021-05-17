@@ -94,7 +94,6 @@ Le choix des outils sera pertinent par rapport au propos et à notre encadrement
     * citez vos (toutes!) vos sources
 
 ### Présentation du prototype (avril)
-* 
 
 ### Remise finale (15 juin)
 * Dans le [Drive suivant](https://drive.google.com/drive/folders/1wDH778Gtw1rmctyt_PwzBAAX7m46rnzA?usp=sharing), NOMDEFAMILLE_Prénom/Transmutation/, au plus tard le 15 juin à 23:59
