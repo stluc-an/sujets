@@ -2,7 +2,7 @@
 
 Le quadrimestre se clôture sur un projet qui va faire appel à vos compétences nouvellement acquises en électronique, et à votre muscle de conception de projets entraîné sur les thèmes nuage/plante/sable.
 
-La demande est simple : il s'agit d'un oeuvre qui consiste en une application connectée au monde physique par l'intermédiaire de l'Arduino.
+La demande est simple : **il s'agit d'un oeuvre qui consiste en une application connectée au monde physique par l'intermédiaire de l'Arduino.**
 
 - "une application" inclut, entres autres et par exemple, une scène Unity, un sketch p5.js ou Processing, voire un programme Arduino qui contiendrait toute la logique de votre projet.
 - "le monde physique" peut servir d'input (capteurs divers) et/ou d'output (moteur, lumière, etc.)
