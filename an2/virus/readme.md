@@ -85,8 +85,8 @@ C’est un projet d’art numérique, qui devra répondre aux objectifs du cursu
 
 En conséquence, ton projet doit : 
 * **comporter un propos**
-        * narratif ou non
-        * prendre position/éclairer la scène depuis un angle particulier et assumé
+    * narratif ou non
+    * prendre position/éclairer la scène depuis un angle particulier et assumé
 * **être graphique et/ou plastique** 
 * **faire appel à la programmation**
     * en temps réel (interaction, unity, web, controller, …)
