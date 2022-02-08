@@ -8,7 +8,7 @@ Tu t'apprêtes à donner à voir quelque chose du monde des maliciels, des virus
 
 Pour éviter l’horreur, nous vivions sans oser regarder sous nos lits. Nous faisions confiance aveugle à notre père Norton, à notre mère Avast, à la faible lueur de chevet de notre Firewall. Nous étions enfants… 
 
-Cette époque est révolue, ton virus s’appelle :
+Cette époque est révolue, ton virus s’appelle : **[nous vous communiquerons bientôt comment sélectionner votre virus]**
 
 ```
 D32.Parallel.Minor.Impact
