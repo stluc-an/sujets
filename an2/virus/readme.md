@@ -16,28 +16,38 @@ D32.Parallel.Minor.Impact
 PZ:Harmful.Marketing.Menu@1
 
 LP:Poetry.Section.Salad.C
+👉 Matthieu
 
 DB.Discourage.Desert.Killer
+👉 Spiros
 
 MSZZ:Reject.Tolerant.Witness
+👉 Antoine
 
 NDN/Incident.Bloody.Forum.F
+👉 Inwë
 
 CRV:Regular.Linger.Contact
+👉 Elvin
 
 C32.Officer.Swallow.Verdict
 
 PQR:Deter.Ostracize.Orbit
+👉 Léa
 
 NMR.Confidence.Poison.Attack
+👉 Laura
 
 TBGM:Captivate.Aspect.Threshold
 
 TQ:Wedding.Vision.Convulsion@C
+👉 Sana
 
 DS:Resident.Rugby.Cycle.1
+👉 Théo
 
 K32.Embrace.Multiply.Portrait
+👉 Louanne
 
 DMQ:Abnormal.Vacuum.City.E
 
@@ -46,24 +56,31 @@ PML:Seasonal.Miner.Appear.E
 XQS:Delicate.Iron.Angle
 
 TG:Heaven.Reserve.Projection
+👉 Akif
 
 WCCM:Worker.Connection.Absence
 
 TC/Suburb.Deputy.Employ
 
 QVC:Reckless.Ballet.Improvement@4
+👉 Lina
 
 JXW:Variant.Uncle.Suspect@7
+👉 Augustin
 
 BZ:Ruin.Extension.Monster
+👉 Louis
 
 B64/Passive.Habitat.Contain
 
 RF/Bacon.Building.Relinquish.F
+👉 Julie
 
 WB:Recruit.Fascinate.Question.B
+👉 Nicolas
 
 KNJ:Expansion.Monkey.Silence@5
+👉 Dan
 
 G16/Relax.Deficit.Module
 
