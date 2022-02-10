@@ -11,6 +11,7 @@ Pour éviter l’horreur, nous vivions sans oser regarder sous nos lits. Nous fa
 Cette époque est révolue, ton virus s’appelle : 
 ```
 D32.Parallel.Minor.Impact
+👉 Diana
 
 PZ:Harmful.Marketing.Menu@1
 
@@ -30,6 +31,7 @@ CRV:Regular.Linger.Contact
 👉 Elvin
 
 C32.Officer.Swallow.Verdict
+👉 Thomas
 
 PQR:Deter.Ostracize.Orbit
 👉 Léa
@@ -49,10 +51,12 @@ K32.Embrace.Multiply.Portrait
 👉 Louanne
 
 DMQ:Abnormal.Vacuum.City.E
+👉 Eva
 
 PML:Seasonal.Miner.Appear.E
 
 XQS:Delicate.Iron.Angle
+👉 Julen
 
 TG:Heaven.Reserve.Projection
 👉 Akif
